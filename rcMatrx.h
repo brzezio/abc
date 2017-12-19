@@ -3,6 +3,8 @@
 
 using namespace std;
 
+//zmiana dla git
+
 class CMatrix{
 private:
 	struct data;
